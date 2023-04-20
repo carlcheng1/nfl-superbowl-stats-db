@@ -1,0 +1,497 @@
+player_id,name,position,birthday,college
+0,Patrick Johnson,,,
+1,Cooper Kupp,WR,1993-06-15,Eastern Washington
+2,Santonio Holmes,,,
+3,Carwell Gardner,,1966-11-27,Louisville
+4,Joseph Addai,,1983-05-03,LSU
+5,Steve Young,,1961-10-11,Brigham Young
+6,Elvis Grbac,,,
+7,Tyler Boyd,WR,1994-11-15,Pittsburgh
+8,Greg Jennings,,1983-09-21,Western Michigan
+9,Jay Ajayi,RB,1993-06-15,Boise State
+10,Steve Tasker,,1962-04-10,Northwestern
+11,Chris Godwin,WR,1996-02-27,Penn State
+12,Brandon Stokley,,,
+13,Anquan Boldin,WR,1980-10-03,Florida State
+14,Demarcus Robinson,WR,1994-09-21,Florida
+15,Keith McKeller,,,
+16,Ed McCaffrey,,1968-08-17,Stanford
+17,Isaac Byrd,,,
+18,Eric Bieniemy,,,
+19,Marques Colston,,,
+20,Joe Haeg,OT,1993-03-11,North Dakota State
+21,William Henderson,,,
+22,Chris Sanders,,1973-04-22,Texas A&M
+23,Vonta Leach,,1981-11-06,East Carolina
+24,Corey Clement,RB,1994-11-02,Wisconsin
+25,Darrell Jackson,,1978-12-06,Florida
+26,Emmitt Smith,RB,,
+27,Patrick DiMarco,RB,1989-04-30,South Carolina
+28,Lionel Manuel,,1962-04-13,U. of Pacific
+29,Cam Akers,RB,,
+30,Jerry Porter,,,
+31,Ray Rice,RB,1987-01-22,Rutgers
+32,Michael Pittman,WR,1975-08-14,Fresno State
+33,Dedric Ward,,1974-09-29,Northern Iowa
+34,Qadry Ismail,,1970-11-08,Syracuse
+35,Marshall Faulk,,1973-02-26,San Diego State
+36,Priest Holmes,,,
+37,Fozzy Whittaker,RB,1989-02-02,Texas
+38,Terrell Davis,RB,1972-10-28,Georgia
+39,Mark Ingram,RB,1989-12-21,Alabama
+40,Ernie Mills,,,
+41,Keith Jackson,,1965-04-19,Oklahoma
+42,Brent Jones,,,
+43,Ben Patrick,,1984-08-23,Delaware
+44,Nick Foles,QB,1989-01-20,Arizona
+45,Raheem Mostert,RB,1992-04-09,Purdue
+46,Todd Gurley,RB,1994-08-03,Georgia
+47,Brandon Jacobs,,1982-07-06,Southern Illinois
+48,Marvin Harrison,,1972-08-25,Syracuse
+49,Reggie Wayne,,1978-11-17,Miami (Fla.)
+50,O.J. Santiago,,1974-03-04,Kent State
+51,Art Monk,,,
+52,Stanford Jennings,,1962-03-12,Furman
+53,Ja'Marr Chase,WR,,
+54,Carey Davis,,1981-03-27,Illinois
+55,Golden Tate,WR,1988-08-02,Notre Dame
+56,David Tyree,,,
+57,Jamal Anderson,,1972-09-30,Utah
+58,Chris Matthews,WR,1989-10-06,Kentucky
+59,Ricky Ervins,,1968-12-07,USC
+60,Austin Hooper,TE,1994-10-29,Stanford
+61,Chris Hogan,WR,1988-10-24,Monmouth (N.J.)
+62,Andre Reed,,1964-01-29,Kutztown
+63,Phillip Dorsett,WR,1993-01-05,Miami (Fla.)
+64,Donte' Stallworth,,,
+65,Mike Bell,,1983-04-23,Arizona
+66,Yancey Thigpen,,1969-08-15,Winston-Salem State
+67,Edgerrin James,,1978-08-01,Miami (Fla.)
+68,Bryan Fletcher,,1979-03-23,UCLA
+69,Odell Beckham Jr.,WR,,
+70,Corey Brown,WR,1991-12-16,Ohio State
+71,Rickey Dudley,,,
+72,Orson Mobley,,,
+73,Jeff Hostetler,,,
+74,Mark Bruener,,,
+75,Sammy Winder,,,
+76,Robert Turbin,RB,1989-12-02,Utah State
+77,Hakeem Nicks,,1988-01-14,North Carolina
+78,Maurice Carthon,,1961-04-24,Arkansas State
+79,Tom Brady,QB,1977-08-03,Michigan
+80,John Frank,,1962-04-17,Ohio State
+81,Devery Henderson,,,
+82,Kevin Faulk,,1976-06-05,LSU
+83,Torrey Smith,WR,1989-01-26,Maryland
+84,Aaron Stecker,,,
+85,Jermaine Kearse,WR,1990-02-06,Washington
+86,James Brooks,,,
+87,Josh Parry,,1978-04-05,San Jose State
+88,Joe Montgomery,,,
+89,Kyle Juszczyk,FB,1991-04-23,Harvard
+90,Mike Wilson,,,
+91,Zach Miller,TE,1984-10-04,Nebraska-Omaha
+92,Kelvin Martin,,1965-05-14,Boston College
+93,Todd Pinkston,,1977-04-23,Southern Mississippi
+94,Bryan Walters,,,
+95,Doug Jolley,,,
+96,Kerry Collins,,,
+97,Duane Young,,1968-05-29,Michigan State
+98,Matthew Stafford,QB,1988-02-07,Georgia
+99,Aaron Rodgers,QB,1983-12-02,California
+100,Jamie Williams,,,
+101,DeShaun Foster,,1980-01-10,UCLA
+102,Steve McNair,QB,,
+103,Wes Welker,,1981-05-01,Texas Tech
+104,Doug Williams,,,
+105,Rashied Davis,,1979-07-24,San Jose State
+106,John Elway,QB,1960-06-28,Stanford
+107,Isaac Redman,,1984-11-10,Bowie State
+108,Shaun Alexander,,1977-08-30,Alabama
+109,Vernon Davis,TE,1984-01-31,Maryland
+110,Tom Tupa,,,
+111,Ricky Sanders,,1962-08-30,Texas State
+112,Bubby Brister,,,
+113,Tim Brown,,,
+114,Ben Utecht,,1981-06-30,Minnesota
+115,Al Edwards,,1967-05-18,Northwestern State-Louisiana
+116,Charlie Garner,,1972-02-13,Tennessee
+117,Marshawn Lynch,RB,1986-04-22,California
+118,Curtis Martin,,1973-05-01,Pittsburgh
+119,Vaughn Hebron,,,
+120,Roger Craig,,,
+121,Tony Banks,,1973-04-05,Michigan State
+122,Knowshon Moreno,,,
+123,Tony Galbreath,,1954-01-29,Missouri
+124,Howard Cross,,,
+125,Aaron Moorehead,,,
+126,Bernie Kosar,,1963-11-25,Miami (Fla.)
+127,Ben Watson,,,
+128,Chris Evans,,,
+129,Keyshawn Johnson,,1972-07-22,USC
+130,Jerricho Cotchery,,,
+131,Emmanuel Sanders,WR,1987-03-17,Southern Methodist
+132,Robert Woods,WR,1992-04-10,USC
+133,Mike Alstott,,1973-12-21,Purdue
+134,Joe Montana,,,
+135,Kyle Brady,,,
+136,Mecole Hardman,WR,,
+137,Leonard Pope,,,
+138,Andre Hastings,,1971-11-07,Georgia
+139,Cedrick Wilson,,,
+140,Pierre Thomas,,1984-12-18,Illinois
+141,Erric Pegram,,1969-01-07,North Texas
+142,Tyrone Wheatley,,1972-01-19,Michigan
+143,James Lofton,,,
+144,Dexter Carter,,1967-09-15,Florida State
+145,Byron Pringle,,,
+146,Jerome Bettis,,,
+147,Derrick Mayes,,1974-01-28,Notre Dame
+148,Taylor Gabriel,WR,1991-02-17,Abilene Christian
+149,Jonathan Stewart,RB,1987-03-21,Oregon
+150,BenJarvus Green-Ellis,,,
+151,Madison Hedgecock,,,
+152,Jon Ritchie,,1974-09-04,Stanford
+153,Frank Reich,,1961-12-04,Maryland
+154,Torry Holt,,,
+155,Robert Holcombe,,,
+156,Mack Strong,,,
+157,Jeremy Shockey,,,
+158,George Kittle,TE,1993-10-09,Iowa
+159,Terance Mathis,,1967-06-07,New Mexico
+160,Verron Haynes,,,
+161,Ronald Jones II,RB,,
+162,Tiki Barber,,1975-04-07,Virginia
+163,Jabar Gaffney,,1980-12-01,Florida
+164,Bill Brooks,,,
+165,James Jones,,,
+166,Eli Manning,QB,1981-01-03,Mississippi
+167,Devin Funchess,WR,1994-05-21,Michigan
+168,Terry Orr,,1961-09-27,Texas
+169,Joe Morris,,,
+170,Byron Chamberlain,,1971-10-17,Wayne State (Neb.)
+171,Brad Hoover,,,
+172,Rashard Mendenhall,,,
+173,Deion Sanders,,1967-08-09,Florida State
+174,Danny Ware,,,
+175,Travis Kelce,TE,1989-10-05,Cincinnati
+176,Mike Hart,,1986-04-09,Michigan
+177,Aaron Hernandez,TE,,
+178,David Thomas,,1983-07-05,Texas
+179,Trent Dilfer,,1972-03-13,Fresno State
+180,Earnest Byner,,,
+181,C.J. Anderson,RB,1991-02-10,California
+182,Daniel Graham,,,
+183,L.J. Smith,,,
+184,Pete Metzelaars,,,
+185,C.J. Uzomah,TE,1993-01-14,Auburn
+186,Deion Branch,,,
+187,Cordarrelle Patterson,WR,1991-03-17,Tennessee
+188,Mohamed Sanu,WR,1989-08-22,Rutgers
+189,Mel Bratton,,,
+190,Devonta Freeman,RB,1992-03-15,Florida State
+191,Pierre Garcon,WR,1986-08-08,Mount Union
+192,Jimmy Garoppolo,QB,1991-11-02,Eastern Illinois
+193,Nate Washington,,,
+194,Ed Dickson,TE,1987-07-25,Oregon
+195,Sam Koch,P,1982-08-13,Nebraska
+196,Joe Jurevicius,,,
+197,Alvin Harper,,1968-07-06,Tennessee
+198,Henry Hynoski,,,
+199,Peyton Manning,,1976-03-24,Tennessee
+200,Az-Zahir Hakim,,1977-06-03,San Diego State
+201,Andrew Quarless,,,
+202,Jermaine Lewis,,1974-10-16,Maryland
+203,Vincent Brisby,,,
+204,Plaxico Burress,,,
+205,Wesley Walls,,1966-02-26,Mississippi
+206,John Taylor,,1979-08-29,Montana State
+207,Jackie Harris,,1968-01-04,Louisiana-Monroe
+208,Ahmad Bradshaw,,,
+209,Don Smith,,,
+210,Freddie Mitchell,,,
+211,Daryl Johnston,,,
+212,Harold Green,,,
+213,Kevin Dyson,,,
+214,Dallas Clark,,,
+215,Rob Gronkowski,TE,1989-05-14,Arizona
+216,Matt Ryan,QB,1985-05-17,Boston College
+217,Victor Cruz,WR,1986-11-11,Massachusetts
+218,Jamal Lewis,,1979-08-26,Tennessee
+219,Frank Wycheck,,,
+220,Jeff Wilson,,,
+221,Brandon LaFell,WR,1986-11-04,LSU
+222,Demaryius Thomas,WR,1987-12-25,Georgia Tech
+223,Montee Ball,,1990-12-05,Wisconsin
+224,LaMichael James,,1989-10-22,Oregon
+225,Tyler Johnson,,,
+226,Mike Wallace,WR,1986-08-01,Mississippi
+227,Mark Chmura,,1969-02-22,Boston College
+228,Jeff Robinson,,,
+229,Rich Gannon,,1965-12-20,Delaware
+230,Austin Collie,,,
+231,Gary Kubiak,,,
+232,Kenneth Davis,,1962-04-16,Texas Christian
+233,Eric Decker,WR,1987-03-15,Minnesota
+234,Nelson Agholor,WR,1993-05-24,USC
+235,Mike Horan,,,
+236,Rex Burkhead,RB,1990-07-02,Nebraska
+237,Julio Jones,WR,1989-02-03,Alabama
+238,Troy Aikman,QB,1966-11-21,UCLA
+239,Dennis Pitta,TE,1985-06-29,Brigham Young
+240,Stacy Robinson,,,
+241,Brett Swain,,,
+242,Gene Lang,,1962-03-15,LSU
+243,Donovan McNabb,,,
+244,Brett Favre,QB,1969-10-10,Southern Mississippi
+245,Ted Popson,,,
+246,Ben Roethlisberger,QB,1982-03-02,Miami (Ohio)
+247,John Williams,,,
+248,Patrick Mahomes,QB,1995-09-17,Texas Tech
+249,Rod Smith,RB,1992-01-10,Ohio State
+250,Van Jefferson,WR,,
+251,Antowain Smith,,,
+252,Clarence Kay,,1961-07-30,Georgia
+253,Zack Crockett,,,
+254,Corey Dillon,,1974-10-24,Washington
+255,Matt Hasselbeck,,1975-09-25,Boston College
+256,Ben Coates,,,
+257,Ronnie Harris,,1970-06-04,Oregon
+258,Tony Martin,,1965-09-05,Mesa State
+259,Percy Harvin,WR,1988-05-28,Florida
+260,Clint Sampson,,1961-01-04,San Diego State
+261,Natrone Means,,,
+262,Alfred Pupunu,,,
+263,Jerame Tuman,,,
+264,Steve Beuerlein,,,
+265,Willie Parker,,1980-11-11,North Carolina
+266,Bobby Engram,,1973-01-07,Penn State
+267,Chris Chandler,,1965-10-12,Washington
+268,Jacob Tamme,TE,1985-03-15,Kentucky
+269,Doug Baldwin,WR,1988-09-21,Stanford
+270,Joe Burrow,QB,,
+271,Michael Crabtree,WR,1987-09-14,Texas Tech
+272,Sammy Watkins,WR,1993-06-14,Clemson
+273,Dorsey Levens,,1970-05-21,Georgia Tech
+274,Troy Kyles,,,
+275,Mark Seay,,1967-04-11,Long Beach State
+276,Marc Edwards,,1974-11-17,Notre Dame
+277,Derek Loville,,,
+278,Antwaan Randle El,,1979-08-17,Indiana
+279,Dave Meggett,,,
+280,Don Warren,,1956-05-05,San Diego State
+281,Derrick Gainer,,1966-08-15,Florida A&M
+282,Tyreek Hill,WR,1994-03-01,West Alabama
+283,Thomas Jones,,,
+284,Willie Green,,,
+285,Josh Reynolds,WR,1995-02-16,Texas A&M
+286,Nate Singleton,,,
+287,Lance Moore,,,
+288,Jake Ballard,,1987-12-21,Ohio State
+289,Delanie Walker,TE,1984-08-12,Central Missouri State
+290,Mike Evans,,1967-06-02,Michigan
+291,Mike Tolbert,FB,1985-11-23,Coastal Carolina
+292,Andre Caldwell,,,
+293,Mewelde Moore,,,
+294,Maurice Morris,,,
+295,Darwin Thompson,,,
+296,Bobby Humphrey,,,
+297,Tee Higgins,WR,,
+298,Kelvin Bryant,,,
+299,Ricky Proehl,,,
+300,Yo Murphy,,,
+301,Edgar Bennett,,,
+302,Ickey Woods,,,
+303,Cam Newton,QB,1989-05-11,Auburn
+304,William Floyd,,1972-02-17,Florida State
+305,Ernie Conwell,,,
+306,Marcus Knight,,1978-06-19,Michigan
+307,George Rogers,,,
+308,Dominic Rhodes,,1979-01-17,Midwestern State
+309,Frank Gore,RB,1983-05-14,Miami (Fla.)
+310,Gary Russell,,,
+311,Mark Bavaro,,1963-04-28,Notre Dame
+312,Steve Breaston,,,
+313,J.J. Arrington,,1983-01-23,California
+314,Gary Clark,,,
+315,Michael Irvin,,1966-03-05,Miami (Fla.)
+316,Timmy Smith,,,
+317,Jordy Nelson,WR,1985-05-31,Kansas State
+318,Jerry Rice,,1962-10-13,Mississippi Valley State
+319,Alshon Jeffery,WR,1990-02-14,South Carolina
+320,Cameron Brate,TE,1991-07-03,Harvard
+321,Isaac Bruce,,,
+322,Ben Skowronek,WR,,
+323,Clyde Edwards-Helaire,RB,,
+324,Phil Simms,,,
+325,Jacoby Jones,,,
+326,Sony Michel,,,
+327,Luke Willson,TE,1990-01-15,Rice
+328,Donald Driver,,,
+329,Jim Kelly,,1951-08-07,Tennessee State
+330,Justin Tucker,K,1989-11-21,Texas
+331,Greg Olsen,TE,1985-03-11,Miami (Fla.)
+332,Kevin Boss,,,
+333,Bethel Johnson,,1979-02-11,Texas A&M
+334,Andre Rison,,1967-03-18,Michigan State
+335,Vance Johnson,,,
+336,Heath Evans,,1978-12-30,Auburn
+337,Cedric Benson,,,
+338,Tim Dwight,,,
+339,Ronnie Harmon,,1964-05-07,Iowa
+340,Amani Toomer,,1974-09-08,Michigan
+341,Jason McKie,,,
+342,Larry Centers,,1968-06-01,Stephen F. Austin St.
+343,Greg Comella,,,
+344,Jay Novacek,,1962-10-24,Wyoming
+345,Colin Kaepernick,QB,1987-11-03,Nevada
+346,Patrick Pass,,1977-12-31,Georgia
+347,Ken Dilger,,1971-02-02,Illinois
+348,Jerramy Stevens,,,
+349,James Develin,FB,1988-07-23,Brown
+350,Harry Sydney,,,
+351,Darrell Henderson,RB,,
+352,Fred Miller,,,
+353,Kordell Stewart,,,
+354,Ryan Hannam,,1980-02-24,Northern Iowa
+355,Jonathan Hayes,,,
+356,Hines Ward,,1976-03-08,Georgia
+357,Greg Lewis,,1969-08-10,Washington
+358,Bill Musgrave,,,
+359,Tarvaris Jackson,,1983-04-21,Alabama State
+360,Bernard Berrian,,,
+361,Leonard Fournette,RB,1995-01-18,LSU
+362,Corey Holliday,,,
+363,James White,RB,1992-02-03,Wisconsin
+364,Larry Fitzgerald,WR,1983-08-31,Pittsburgh
+365,Eddie Brown,,,
+366,Randy Moss,WR,,
+367,Cris Collinsworth,,,
+368,Jamie Mueller,,,
+369,Keith Griffin,,,
+370,Shane Vereen,RB,1989-03-02,California
+371,James Starks,RB,1986-02-25,Buffalo
+372,Jeff Rutledge,,,
+373,Jordan Norwood,WR,1986-09-28,Penn State
+374,Roland Williams,,,
+375,Jim Riggs,,1963-09-23,Clemson
+376,Damien Williams,RB,1992-04-03,Oklahoma
+377,Clint Didier,,1959-04-04,Portland State
+378,Blake Bell,TE,1991-08-07,Oklahoma
+379,Lee Rouson,,,
+380,Ricardo Lockette,,,
+381,Derrick Mason,,1974-01-17,Michigan State
+382,Chad Johnson,,1978-01-09,Oregon State
+383,Mike Young,,1962-02-21,UCLA
+384,LeGarrette Blount,RB,1986-12-05,Oregon
+385,Neil O'Donnell,,1966-07-03,Maryland
+386,Bernard Pierce,RB,1991-05-10,Temple
+387,Boomer Esiason,,1961-04-17,Maryland
+388,J.R. Redmond,,1977-09-28,Arizona State
+389,Ronnie Hillman,RB,1991-09-14,San Diego State
+390,Christian Fauria,,1971-09-22,Colorado
+391,Gerald Everett,TE,1994-06-25,South Alabama
+392,Dion Lewis,RB,1990-09-27,Pittsburgh
+393,Tom Crabtree,,,
+394,Ottis Anderson,,1957-01-19,Miami (Fla.)
+395,Dwayne Carswell,,1972-01-18,Liberty
+396,Michael Robinson,,,
+397,Kendrick Bourne,WR,1995-08-04,Eastern Washington
+398,Malcolm Mitchell,WR,1992-07-20,Georgia
+399,Shannon Sharpe,,1968-06-26,Savannah State
+400,Terry Glenn,,1974-07-23,Ohio State
+401,Ira Hillary,,,
+402,Danny Amendola,WR,1985-11-02,Texas Tech
+403,Brandin Cooks,WR,1993-09-25,Oregon State
+404,David Givens,,1980-08-16,Notre Dame
+405,Brian Westbrook,,1979-09-02,Villanova
+406,Tom Rathman,,1962-10-07,Nebraska
+407,Drew Bledsoe,,,
+408,Danny Woodhead,RB,1985-01-25,Chadron State
+409,Stephen Baker,,1964-08-30,Fresno State
+410,Muhsin Muhammad,,,
+411,Rodney Holman,,,
+412,Kevin Williams,,,
+413,Tim Hightower,RB,1986-05-23,Richmond
+414,Steve Smith Sr.,,,
+415,Zach Ertz,TE,1990-11-10,Stanford
+416,Mark Rypien,,,
+417,Thurman Thomas,,1966-05-16,Oklahoma State
+418,Terry Mickens,,,
+419,Antonio Freeman,,,
+420,James Hodgins,,,
+421,Kris Mangum,,1973-08-15,Mississippi
+422,Howard Griffith,,,
+423,Matt Spaeth,,,
+424,Gale Gilbert,,1961-12-20,California
+425,Terrence Flagler,,1964-09-24,Clemson
+426,Keenan McCardell,,1970-01-06,Nevada-Las Vegas
+427,Brian Kozlowski,,,
+428,Tevin Coleman,RB,1993-04-16,Indiana
+429,Laurence Maroney,,1985-02-05,Minnesota
+430,Tanner Hudson,,,
+431,Martellus Bennett,TE,1987-03-10,Texas A&M
+432,Russell Copeland,,,
+433,Scott Miller,,,
+434,Bear Pascoe,,,
+435,Deebo Samuel,,,
+436,D.J. Hackett,,1981-07-03,Colorado
+437,Ted Ginn Jr.,,,
+438,Russell Wilson,QB,1988-11-29,Wisconsin
+439,Phil McConkey,,,
+440,Pete Mitchell,,,
+441,Joe Mixon,RB,1996-07-24,Oklahoma
+442,Tim McGee,,,
+443,Troy Brown,,,
+444,Shawn Jefferson,,1969-02-22,Central Florida
+445,Gerald Riggs,,1960-11-06,Arizona State
+446,Terrell Owens,,1973-12-07,Tennessee-Chattanooga
+447,Antonio Brown,WR,1988-07-10,Central Michigan
+448,Ike Hilliard,,,
+449,David Patten,,1974-08-19,Western Carolina
+450,Donald Brown,,,
+451,Ron Dixon,,,
+452,Mario Manningham,,1986-05-25,Michigan
+453,Jared Goff,QB,1994-10-14,California
+454,Owen Daniels,,1982-11-09,Wisconsin
+455,Jay Schroeder,,1961-06-28,UCLA
+456,Bam Morris,,,
+457,Rex Grossman,,,
+458,Robert Meachem,,,
+459,Jake Delhomme,,1975-01-10,Louisiana-Lafayette
+460,Heath Miller,,,
+461,Samaje Perine,RB,1995-09-16,Oklahoma
+462,Steve Watson,,1957-05-28,Temple
+463,Mike Sherrard,,,
+464,Don Beebe,,1964-12-18,Chadron State
+465,Jermaine Wiggins,,,
+466,Trey Burton,TE,1991-10-29,Florida
+467,Jerheme Urban,,1980-11-26,Trinity (Tex.)
+468,Lincoln Coleman,,,
+469,Michael Hoomanawanui,TE,1988-07-04,Illinois
+470,Korey Hall,,1983-08-05,Boise State
+471,Mike Thomas,WR,1994-08-16,Southern Mississippi
+472,Gerald Willhite,,,
+473,Ricky Watters,,1969-04-07,Notre Dame
+474,Brandon Jackson,,1985-10-02,Nebraska
+475,Keith Byars,,,
+476,Darrel Williams,,,
+477,Steve Smith,WR,1979-05-12,Utah
+478,Steve Sewell,,1963-04-02,Oklahoma
+479,Mike Vrabel,,1975-08-14,Ohio State
+480,Stephen Davis,,1974-03-01,Auburn
+481,Brad Johnson,,1968-09-13,Florida State
+482,Brycen Hopkins,,,
+483,Drew Brees,QB,1979-01-15,Purdue
+484,Mark Jackson,,1962-03-16,Abilene Christian
+485,Kurt Warner,,1971-06-22,Northern Iowa
+486,Robert Brooks,,,
+487,Eddie George,,1973-09-24,Ohio State
+488,Julian Edelman,WR,1986-05-22,Kent State
+489,Reggie Bush,RB,1985-03-02,USC
+490,Joe Flacco,QB,1985-01-16,Delaware
+491,Stan Humphries,,,
+492,Zeke Mowatt,,,
+493,Julius Thomas,TE,1988-06-27,Portland State
+494,Desmond Clark,,,
+495,Ricky Nattiel,,1966-01-25,Florida

@@ -1,0 +1,57 @@
+game_id,sb,winner_id,winner_pts,loser_id,loser_pts,stadium,city,state
+2022,LVI (56),3,23,5,20,,,
+2021,LV (55),7,31,19,9,,,
+2020,LIV (54),19,31,18,20,Hard Rock Stadium,Miami Gardens,Florida
+2019,LIII (53),6,13,3,3,Mercedes-Benz Stadium,Atlanta,Georgia
+2018,LII (52),25,41,6,33,U.S. Bank Stadium,Minneapolis,Minnesota
+2017,LI (51),6,34,14,28,NRG Stadium,Houston,Texas
+2016,L (50),4,24,15,10,Levi's Stadium,Santa Clara,California
+2015,XLIX (49),6,28,9,24,University of Phoenix Stadium,Glendale,Arizona
+2014,XLVIII (48),9,43,4,8,MetLife Stadium,East Rutherford,New Jersey
+2013,XLVII (47),16,34,18,31,Mercedes-Benz Superdome,New Orleans,Louisiana
+2012,XLVI (46),24,21,6,17,Lucas Oil Stadium,Indianapolis,Indiana
+2011,XLV (45),21,31,17,25,Cowboys Stadium,Arlington,Texas
+2010,XLIV (44),12,31,1,17,Sun Life Stadium,Miami Gardens,Florida
+2009,XLIII (43),17,27,13,23,Raymond James Stadium,Tampa,Florida
+2008,XLII (42),24,17,6,14,University of Phoenix Stadium,Glendale,Arizona
+2007,XLI (41),1,29,10,17,Dolphin Stadium,Miami Gardens,Florida
+2006,XL (40),17,21,9,10,Ford Field,Detroit,Michigan
+2005,XXXIX (39),6,24,25,21,Alltel Stadium,Jacksonville,Florida
+2004,XXXVIII (38),6,32,15,29,Reliant Stadium,Houston,Texas
+2003,XXXVII (37),7,48,2,21,Qualcomm Stadium,San Diego,California
+2002,XXXVI (36),6,20,3,17,Louisiana Superdome,New Orleans,Louisiana
+2001,XXXV (35),16,34,24,7,Raymond James Stadium,Tampa,Florida
+2000,XXXIV (34),3,23,20,16,Georgia Dome,Atlanta,Georgia
+1999,XXXIII (33),4,34,14,19,Pro Player Stadium,Miami Gardens,Florida
+1998,XXXII (32),4,31,21,24,Qualcomm Stadium,San Diego,California
+1997,XXXI (31),21,35,6,21,Louisiana Superdome,New Orleans,Louisiana
+1996,XXX (30),22,27,17,17,Sun Devil Stadium,Tempe,Arizona
+1995,XXIX (29),18,49,11,26,Joe Robbie Stadium,Miami Gardens,Florida
+1994,XXVIII (28),22,30,23,13,Georgia Dome,Atlanta,Georgia
+1993,XXVII (27),22,52,23,17,Rose Bowl,Pasadena,California
+1992,XXVI (26),0,37,23,24,Metrodome,Minneapolis,Minnesota
+1991,XXV (25),24,20,23,19,Tampa Stadium,Tampa,Florida
+1990,XXIV (24),18,55,4,10,Louisiana Superdome,New Orleans,Louisiana
+1989,XXIII (23),18,20,5,16,Joe Robbie Stadium,Miami Gardens,Florida
+1988,XXII (22),0,42,4,10,Jack Murphy Stadium,San Diego,California
+1987,XXI (21),24,39,4,20,Rose Bowl,Pasadena,California
+1986,XX (20),10,46,6,10,Louisiana Superdome,New Orleans,Louisiana
+1985,XIX (19),18,38,26,16,Stanford Stadium,Palo Alto,California
+1984,XVIII (18),2,38,0,9,Tampa Stadium,Tampa,Florida
+1983,XVII (17),0,27,26,17,Rose Bowl,Pasadena,California
+1982,XVI (16),18,26,5,21,Pontiac Silverdome,Pontiac,Michigan
+1981,XV (15),2,27,25,10,Louisiana Superdome,New Orleans,Louisiana
+1980,XIV (14),17,31,3,19,Rose Bowl,Pasadena,California
+1979,XIII (13),17,35,22,31,Orange Bowl,Miami,Florida
+1978,XII (12),22,27,4,10,Superdome,New Orleans,Louisiana
+1977,XI (11),2,32,27,14,Rose Bowl,Pasadena,California
+1976,X (10),17,21,22,17,Orange Bowl,Miami,Florida
+1975,IX (9),17,16,27,6,Tulane Stadium,New Orleans,Louisiana
+1974,VIII (8),26,24,27,7,Rice Stadium,Houston,Texas
+1973,VII (7),26,14,0,7,Memorial Coliseum,Los Angeles,California
+1972,VI (6),22,24,26,3,Tulane Stadium,New Orleans,Louisiana
+1971,V (5),1,16,22,13,Orange Bowl,Miami,Florida
+1970,IV (4),19,23,27,7,Tulane Stadium,New Orleans,Louisiana
+1969,III (3),28,16,1,7,Orange Bowl,Miami,Florida
+1968,II (2),21,33,2,14,Orange Bowl,Miami,Florida
+1967,I (1),21,35,19,10,Memorial Coliseum,Los Angeles,California
