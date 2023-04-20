@@ -1,12 +1,12 @@
 # NFL Superbowl Database
-An NFL Superbowl game statistics database.
-Caltech CS 121: Intro to Relational Databases Final Project.
-Carl Cheng
+An NFL Superbowl game statistics database.  
+Caltech CS 121: Intro to Relational Databases Final Project.  
+Carl Cheng  
 
-Data sourced from:
-https://www.kaggle.com/datasets/timoboz/superbowl-history-1967-2020
-https://www.kaggle.com/datasets/mattop/nfl-superbowl-offensive-statistics-19662021
-https://www.kaggle.com/datasets/kendallgillies/nflstatistics (to get player birthdays, colleges, positions)
+Data sourced from:  
+https://www.kaggle.com/datasets/timoboz/superbowl-history-1967-2020  
+https://www.kaggle.com/datasets/mattop/nfl-superbowl-offensive-statistics-19662021  
+https://www.kaggle.com/datasets/kendallgillies/nflstatistics (to get player birthdays, colleges, positions)  
 
 Use the preprocessed CSVs I provide in link-to-data.txt. Put them in a folder called 'data' in the working tree directory (see load-data.sql).
 
